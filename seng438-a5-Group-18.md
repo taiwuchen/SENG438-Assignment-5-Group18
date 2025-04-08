@@ -59,6 +59,7 @@ Advantages:
 - Reliability Growth Testing produces visualized graphs that shows the failure rates (relationship between failure to time intervals), which are important when developing a product.
 - RTG is also used to predict the data behaviour in the future to provide us information for making decisions on the product. Specifically, we can use the average failure rates in a range of intervals to calculate the System Reliabilty which is used to identify the remaining bugs and remaining time that is needed to remove the excessive bugs.
 - RTG allows us to backtrack the causes of system failures by identifying the highest failure peaks.
+
 Disavantages:
 - It depends on large number of fail cases in order to be accurate.
 - There can be a lot of noisy data when analyzing the inputs and drawing the graphs.
