@@ -103,12 +103,15 @@ In all three cases (150, 300, and 600), the failure data line (Observed Failures
 -   The observed failures do not meet the reliability objectives at the confidence level assumed by the RDC.
 
 ![150](image.png)
+
 Figure 1 - RDC Chart showing the system fails to meet MTTF 150 thresholds failure observation fall in the reject zone.
 
 ![300](image-1.png)
+
 Figure 2 - MTTF = 300
 
 ![600](image-2.png)
+
 Figure 3 - Input failure observations normalized using an MTTF of 600 calls, showing cumulative failures, time of observation, and computed normalized usage units for RDC visualization.
 
 
@@ -120,7 +123,7 @@ Figure 3 - Input failure observations normalized using an MTTF of 600 calls, sho
     The RDC provides a clear visual indicator (green, yellow, red) that instantly shows whether a system's reliability is acceptable, marginal, or unacceptable, making it accessible even for those without deep statistical backgrounds.
 
 -   Fast and Lightweight:
-    Unlike reliability growth tools that require modeling and distribution fitting, RDC can quickly give insight using minimal data — ideal when only failure counts and times are known.
+    Unlike reliability growth tools that require modeling and distribution fitting, RDC can quickly give insight using minimal data, ideal when only failure counts and times are known.
 
 -   What If Scenario Testing:
     It allows easy adjustment of MTTF targets and confidence levels to test system reliability under various assumptions, supporting informed decision making during early testing stages.
@@ -134,7 +137,7 @@ Figure 3 - Input failure observations normalized using an MTTF of 600 calls, sho
     The RDC does not provide confidence intervals, model fitting, or predictive analytics. It’s useful for accept/reject decisions but lacks deeper reliability insights.
 
 -   Binary Outcomes:
-    The method is limited to showing whether the system passes or fails for a specific MTTF — it doesn't help understand how to improve reliability or predict future failure trends.
+    The method is limited to showing whether the system passes or fails for a specific MTTF. It doesn't help understand how to improve reliability or predict future failure trends.
 
 -   Not Scalable for Large Datasets:
     With limited cell space and manual input, the RDC tool isn’t ideal for large scale software systems with hundreds of failures or time points.
