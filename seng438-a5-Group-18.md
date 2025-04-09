@@ -153,6 +153,11 @@ Figure 4 - Input failure observations normalized using an MTTF of 600 calls, sho
 
 
 # Comparison of Results
+Although the RGT and RDC methodology had their similarities there were some major differences which created some fundamental changes within the processes.
+
+The RGT had a major focus on the failure intensity, and this allowed us to focus on the failures with respect to time. We had to utilize laplace testing to convert the data to become useful. We also had to scrunch the data in order for it to fit the program.
+
+On the other hand, the RDF provided more information about the MTTFs which allowed our group to find the minimum MTTF. The MTTF output was useful as it allows the user to understand whether the system under test is able to utilize the system or not.
 
 # Discussion on Similarity and Differences of the Two Techniques
 The similarities between the two techniques are that the results of the failure testings can be visually interpreted through graphs. The use of graphical plots in both techniques can help visualize whether or not target failure rates have been met. Some differences between the two techniques is that the C-SFRAT software used in Part I allows for a more in depth analysis of failure data because of the ability to graph and visualize specific data models. While the use of RDC-11 in Microsoft Excel in Part II provides a broader and more appealing visualization of requirements of the SUT. Knowledge gained from the completion of this lab would be the use of different testing tools in order to model a system and it’s failure data. We also learned how to visually interpret whether a SUT satisfies its failure rate requirements through the use of these tools.
