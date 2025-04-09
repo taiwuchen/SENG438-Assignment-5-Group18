@@ -155,13 +155,19 @@ Figure 4 - Input failure observations normalized using an MTTF of 600 calls, sho
 # Comparison of Results
 
 # Discussion on Similarity and Differences of the Two Techniques
+The similarities between the two techniques are that the results of the failure testings can be visually interpreted through graphs. The use of graphical plots in both techniques can help visualize whether or not target failure rates have been met. Some differences between the two techniques is that the C-SFRAT software used in Part I allows for a more in depth analysis of failure data because of the ability to graph and visualize specific data models. While the use of RDC-11 in Microsoft Excel in Part II provides a broader and more appealing visualization of requirements of the SUT. Knowledge gained from the completion of this lab would be the use of different testing tools in order to model a system and it’s failure data. We also learned how to visually interpret whether a SUT satisfies its failure rate requirements through the use of these tools.
 
 # How the team work/effort was divided and managed
-
+The work was divided evenly in two teams. One team worked on part 1 getting the result for the RGT and the other team was tasked with obtaining the results and recording them for the RDC.
 # Using the RDC Tool for Reliability Demonstration
+The main objective of RDC tool utilization demonstrates that products or systems meet predicted expectations across designated durations and operational boundaries. The testing method predicts performance and reliability of major production quantities through representative sampling.
 
 
 
 # Difficulties encountered, challenges overcome, and lessons learned
+The first difficulty we encountered was having to learn about the different graphs and what exactly we needed to know about each.
+The second difficulty we had was learning how to use the RDC and knowing how to effectively edit the spreadsheet.
+Outside of these two main difficulties the rest of the lab followed quite smoothly and we very much enjoyed the topics that we learned along the way.
 
 # Comments/feedback on the lab itself
+We enjoyed this lab, as it allowed us to learn about the different types of distributions and ways to visualize failure data. We also enjoyed exploring various tools and seeing what each one had to offer.
