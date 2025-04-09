@@ -110,9 +110,13 @@ Figure 1 - RDC Chart showing the system fails to meet MTTF 150 thresholds failur
 
 Figure 2 - MTTF = 300
 
+![600 Graph](image-3.png)
+
+Figure 3 - MTTF = 600, out of red range.
+
 ![600](image-2.png)
 
-Figure 3 - Input failure observations normalized using an MTTF of 600 calls, showing cumulative failures, time of observation, and computed normalized usage units for RDC visualization.
+Figure 4 - Input failure observations normalized using an MTTF of 600 calls, showing cumulative failures, time of observation, and computed normalized usage units for RDC visualization.
 
 
 ## A Discussion on the Advantages and Disadvantages of RDC
